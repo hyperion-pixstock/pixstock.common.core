@@ -1,1 +1,1 @@
-"# pixstock.common.core" 
+# Pixstock.Common.Core
